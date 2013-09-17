@@ -1,0 +1,3 @@
+Bundle 'eraserhd/vim-ios'
+Bundle 'msanders/cocoa.vim'
+Bundle 'jnwhiteh/vim-golang'
